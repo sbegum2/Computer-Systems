@@ -1,0 +1,89 @@
+
+
+Lab2 : Binary Arithmetic and C Representation
+
+Repo: egarret1-sbegum1
+p1q1: 2
+p1q1 Comments: 
+
+
+p1q2: 2
+p1q2 Comments: 
+
+
+p1q3: 2
+p1q3 Comments: 
+
+
+p1q4: 2
+p1q4 Comments: 
+
+
+p1q5a: 3
+p1q5a Comments: 
+
+
+p1q5b: 3
+p1q5b Comments: 
+
+
+p1q5c: 5
+p1q5c Comments: 
+
+
+p1q5d: 5
+p1q5d Comments: 
+
+
+p1q6: 6
+p1q6 Comments: 
+
+
+p1q7: 8
+p1q7 Comments: 
+
+
+p1q8: 14
+p1q8 Comments: 
+
+
+p1q9: 12
+p1q9 Comments: 
+
+
+Part1 (/67): 64
+p2q1: 10
+p2q1 Comments: 
+
+
+p2q2: 10
+p2q2 Comments: 
+
+
+p2q3: 10
+p2q3 Comments: 
+
+
+p2q4: 10
+p2q4 Comments: 
+
+
+p2q5: 10
+p2q5 Comments: 
+
+
+p2q6: 10
+p2q6 Comments: 
+
+
+Style: 4
+Style Comments: great comment!
+
+
+Part2 (/64): 64
+Total (/131): 128
+Score: 97.7%
+General Comments: Great work!
+
+
+
