@@ -1,0 +1,40 @@
+
+
+Lab1 : C Introduction
+
+Repo: rjames1-sbegum1-vcorrea1
+
+>>  file input comments: 
+
+
+[ pts off ]: 0
+
+>>  printing comments: First float for floats2 is set to zero even though input array doesn't
+contain a zero. Printing the sorted and unsorted array should be done
+in a helper function to reduce repeated code
+
+
+[ pts off ]: 1
+
+>>  sorting comments: Only made swap a helper function and not the sort function itself
+
+
+[ pts off ]: 1
+-------------------------
+Correctness Total(9pts): 7
+
+>>  program style comments: Lots of TODO coments left, be sure to clean those up. Fantastic
+coments otherwise.
+
+
+
+-------------------------
+Program style (1pts): 0.5
+
+-------------------------
+Total (10pts): 7.5
+>> misc & general comments: Good work! Just be sure to follow the guidelines as closely as
+possible
+
+
+
